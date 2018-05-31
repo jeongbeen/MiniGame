@@ -1,0 +1,6 @@
+D:\sync\vr\readable\sources\unity\BeakerGame\BeakerGame.Logic\bin\Debug\BeakerGame.Logic.dll
+D:\sync\vr\readable\sources\unity\BeakerGame\BeakerGame.Logic\bin\Debug\BeakerGame.Logic.pdb
+D:\sync\vr\readable\sources\unity\BeakerGame\BeakerGame.Logic\obj\Debug\BeakerGame.Logic.csprojResolveAssemblyReference.cache
+D:\sync\vr\readable\sources\unity\BeakerGame\BeakerGame.Logic\obj\Debug\BeakerGame.Logic.csproj.CoreCompileInputs.cache
+D:\sync\vr\readable\sources\unity\BeakerGame\BeakerGame.Logic\obj\Debug\BeakerGame.Logic.dll
+D:\sync\vr\readable\sources\unity\BeakerGame\BeakerGame.Logic\obj\Debug\BeakerGame.Logic.pdb

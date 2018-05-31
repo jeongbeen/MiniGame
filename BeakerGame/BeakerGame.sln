@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeakerGame.Cui", "BeakerGame.Cui\BeakerGame.Cui.csproj", "{9CFBDB29-243E-420E-9712-AEC3E882D9C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeakerGame.Logic", "BeakerGame.Logic\BeakerGame.Logic.csproj", "{52A799FB-9912-437E-A89A-5D672D8DDEE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeakerGame.LogicTests", "BeakerGame.LogicTests\BeakerGame.LogicTests.csproj", "{4E7569EC-ECEC-4ED8-ADA9-FB534563D983}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CFBDB29-243E-420E-9712-AEC3E882D9C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CFBDB29-243E-420E-9712-AEC3E882D9C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CFBDB29-243E-420E-9712-AEC3E882D9C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CFBDB29-243E-420E-9712-AEC3E882D9C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52A799FB-9912-437E-A89A-5D672D8DDEE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52A799FB-9912-437E-A89A-5D672D8DDEE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52A799FB-9912-437E-A89A-5D672D8DDEE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52A799FB-9912-437E-A89A-5D672D8DDEE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E7569EC-ECEC-4ED8-ADA9-FB534563D983}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E7569EC-ECEC-4ED8-ADA9-FB534563D983}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E7569EC-ECEC-4ED8-ADA9-FB534563D983}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E7569EC-ECEC-4ED8-ADA9-FB534563D983}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A76F658-0727-41A6-91D8-64EF0A2D781B}
+	EndGlobalSection
+EndGlobal

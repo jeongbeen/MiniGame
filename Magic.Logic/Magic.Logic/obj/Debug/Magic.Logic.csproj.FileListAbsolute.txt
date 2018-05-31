@@ -1,0 +1,6 @@
+C:\Users\KCCI\source\repos\Magic.Logic\Magic.Logic\bin\Debug\Magic.Logic.dll
+C:\Users\KCCI\source\repos\Magic.Logic\Magic.Logic\bin\Debug\Magic.Logic.pdb
+C:\Users\KCCI\source\repos\Magic.Logic\Magic.Logic\obj\Debug\Magic.Logic.csproj.CoreCompileInputs.cache
+C:\Users\KCCI\source\repos\Magic.Logic\Magic.Logic\obj\Debug\Magic.Logic.dll
+C:\Users\KCCI\source\repos\Magic.Logic\Magic.Logic\obj\Debug\Magic.Logic.pdb
+C:\Users\KCCI\source\repos\Magic.Logic\Magic.Logic\obj\Debug\Magic.Logic.csprojResolveAssemblyReference.cache

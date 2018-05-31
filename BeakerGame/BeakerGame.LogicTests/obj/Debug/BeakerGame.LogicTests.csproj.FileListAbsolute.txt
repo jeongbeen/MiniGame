@@ -1,0 +1,10 @@
+D:\sync\vr\readable\sources\unity\BeakerGame\BeakerGame.LogicTests\bin\Debug\BeakerGame.LogicTests.dll
+D:\sync\vr\readable\sources\unity\BeakerGame\BeakerGame.LogicTests\bin\Debug\BeakerGame.LogicTests.pdb
+D:\sync\vr\readable\sources\unity\BeakerGame\BeakerGame.LogicTests\bin\Debug\BeakerGame.Logic.dll
+D:\sync\vr\readable\sources\unity\BeakerGame\BeakerGame.LogicTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\sync\vr\readable\sources\unity\BeakerGame\BeakerGame.LogicTests\bin\Debug\BeakerGame.Logic.pdb
+D:\sync\vr\readable\sources\unity\BeakerGame\BeakerGame.LogicTests\obj\Debug\BeakerGame.LogicTests.csprojResolveAssemblyReference.cache
+D:\sync\vr\readable\sources\unity\BeakerGame\BeakerGame.LogicTests\obj\Debug\BeakerGame.LogicTests.csproj.CoreCompileInputs.cache
+D:\sync\vr\readable\sources\unity\BeakerGame\BeakerGame.LogicTests\obj\Debug\BeakerGame.LogicTests.csproj.CopyComplete
+D:\sync\vr\readable\sources\unity\BeakerGame\BeakerGame.LogicTests\obj\Debug\BeakerGame.LogicTests.dll
+D:\sync\vr\readable\sources\unity\BeakerGame\BeakerGame.LogicTests\obj\Debug\BeakerGame.LogicTests.pdb

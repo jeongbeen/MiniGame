@@ -1,0 +1,10 @@
+c:\users\kcci\source\repos\Magic.Logic\Magic.Cui\obj\Debug\Magic.Cui.csproj.CoreCompileInputs.cache
+C:\Users\KCCI\source\repos\Magic.Logic\Magic.Cui\bin\Debug\Magic.Cui.exe.config
+C:\Users\KCCI\source\repos\Magic.Logic\Magic.Cui\bin\Debug\Magic.Cui.exe
+C:\Users\KCCI\source\repos\Magic.Logic\Magic.Cui\bin\Debug\Magic.Cui.pdb
+C:\Users\KCCI\source\repos\Magic.Logic\Magic.Cui\bin\Debug\Magic.Logic.dll
+C:\Users\KCCI\source\repos\Magic.Logic\Magic.Cui\bin\Debug\Magic.Logic.pdb
+C:\Users\KCCI\source\repos\Magic.Logic\Magic.Cui\obj\Debug\Magic.Cui.csprojResolveAssemblyReference.cache
+C:\Users\KCCI\source\repos\Magic.Logic\Magic.Cui\obj\Debug\Magic.Cui.csproj.CopyComplete
+C:\Users\KCCI\source\repos\Magic.Logic\Magic.Cui\obj\Debug\Magic.Cui.exe
+C:\Users\KCCI\source\repos\Magic.Logic\Magic.Cui\obj\Debug\Magic.Cui.pdb
